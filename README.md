@@ -56,3 +56,15 @@ In this project, I've looked at financial indicators from Taiwan, and built a cl
 - Random Over Sampler
 - Simple Imputer
 - Gradient Boosting Classifier & Random Forest Classifier
+
+## 6. Customer Segmentation in US
+This project deals with building an unsupervised clustering model to divide small business owners into subgroups.
+
+#### Technology Used
+ - Pandas
+ - Matplotlib
+ - Seaborn
+ - Plotly
+ - Standard Scaler
+ - KMeans Model
+ - PCA
