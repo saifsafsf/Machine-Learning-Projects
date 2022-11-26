@@ -70,7 +70,7 @@ This project deals with building an unsupervised clustering model to divide smal
  - PCA
 
 ## 7. Admissions in the MScFE
-This project is an example of A/B Testing. I have tried to increase the number of admissions in MSc Financial Engineering using EDA, ET & some statistical skills.
+This project is an example of A/B Testing. I have tried to increase the number of admissions in MSc Financial Engineering using EDA, ETL & statistical skills.
 
 #### Technology Used
  - Pandas
