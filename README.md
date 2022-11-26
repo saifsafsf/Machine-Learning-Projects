@@ -68,3 +68,13 @@ This project deals with building an unsupervised clustering model to divide smal
  - Standard Scaler
  - KMeans Model
  - PCA
+
+## 7. Admissions in the MScFE
+This project is an example of A/B Testing. I have tried to increase the number of admissions in MSc Financial Engineering using EDA, ET & some statistical skills.
+
+#### Technology Used
+ - Pandas
+ - NumPy
+ - Plotly
+ - PyMongo
+ - SciPy
