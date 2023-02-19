@@ -86,6 +86,7 @@ This project involves a model to predict volatility in stock exchange using Alph
  - Pandas
  - NumPy
  - Matplotlib
+ - APIs
  - SQL
  - GARCH Model
  - ACF & PACF plots
