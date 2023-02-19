@@ -78,3 +78,14 @@ This project is an example of A/B Testing. I have tried to increase the number o
  - Plotly
  - PyMongo
  - SciPy
+
+## 8. Volatility Forecasting in South Africa
+This project involves a model to predict volatility in stock exchange using Alpha Vantage stock API & deploying this model by my own API to serve predictions.
+
+#### Technology Used
+ - Pandas
+ - NumPy
+ - Matplotlib
+ - SQL
+ - GARCH Model
+ - ACF & PACF plots
