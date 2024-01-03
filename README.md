@@ -1,5 +1,5 @@
 # Machine-Learning-Projects
-Machine Learnings Projects exploring all kinds of analytics & machine learning techniques on various types of real-life datasets.
+Machine Learning projects exploring all kinds of analytics & machine learning techniques on various types of real-life datasets.
 
 ## 1. Real Estate Market
 In this project, I have worked with a dataset of homes for sale. The goal was to determine if there are regional differences in the real estate market.
