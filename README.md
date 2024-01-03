@@ -1,4 +1,4 @@
-# EDAs
+# Machine-Learning-Projects
 
 EDAs implementing various methods of analyzing different types of real-life datasets.
 
